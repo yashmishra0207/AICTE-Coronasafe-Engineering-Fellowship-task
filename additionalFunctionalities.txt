@@ -1,0 +1,5 @@
+1. insert at a particular position. #implemented
+2. update a given todo. #implemented
+3. change the position of a todo. #implemented
+4. display the done-todos and undo the desired ones. #notyet
+5. create a seperate todo lists. Eg. college for college todos. #notyet
